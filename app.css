@@ -45,3 +45,12 @@ small {
   color: #444;
   font-size: 12px;
 }
+
+.materials li {
+  padding: 20px;
+}
+
+.materials li:target {
+  background: #fafafa;
+  border-radius: 3px;
+}
